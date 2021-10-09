@@ -7,5 +7,6 @@ int main(){
     b2=(float)(a-32)*((float)5/9);
     cout<<"b1 = "<<b1<<endl;
     cout<<"b2 = " <<b2<<endl;
+    //quyetvjppro
 }
 
